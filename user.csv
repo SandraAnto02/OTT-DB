@@ -1,0 +1,7 @@
+userid,email,password,phone,username,is_payment_made,is_services_active
+1,san01anto@gmail.com,Sandra@123,7990318415,Admin,0,0
+8,anto@gmail.com,Anto@123,9737190597,Antony,0,0
+10,loki@gmail.com,Loki@12345,6379074584,Sandra,0,0
+11,itsmeresh99@gmail.com,Reshma@123,9791137654,Reshma,0,0
+12,adi@gmail.com,Aditya@123,7982451221,Aditya,0,0
+13,loki@gmail.com,Lokesh@123,6379174584,Lokesh,0,0

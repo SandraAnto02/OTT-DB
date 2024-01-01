@@ -1,0 +1,10 @@
+planid,data,imgsrc,offers,price,sms,validity,voice_call
+1,"2 GB/Day",../../assets/images/home-02.jpg,"DigiCinema   Hotstar",₹349.00,100," 56 Days",Unlimited
+2,"2 GB/Day",../../assets/images/home-03.jpg,"DigiCinema   ",₹299.00,100,"28 Days",Unlimited
+3,"2 GB/Day",../../assets/images/viewplan-02.png,"DigiCinema   Prime   Netflix   Hotstar",₹499.00,100," 84 Days",Unlimited
+4,"2 GB/Day",../../assets/images/home-04.jpg,"DigiCinema   Prime",₹719.00,100,"56 Days",Unlimited
+5,"1.5 GB/Day",../../assets/images/viewplan-03.jpg,"DigiCinema   Hotstar",₹666.00,100," 84 Days",Unlimited
+6,"3GB/Day + 6GB",../../assets/images/home-01.jpg,"DigiCinema   Hotstar",₹399.00,100,"28 Days",Unlimited
+7,"2.5 GB/Day",../../assets/images/viewplan-04.jpg,"DigiCinema   Hotstar",₹349.00,100,"30 Days",Unlimited
+8,2GB/Day,../../assets/images/viewplan-07.jpg,DigiCinema,₹749.00,100,"90 Days",Unlimited
+9,2GB/Day,../../assets/images/viewplan-06.png,"DigiCinema   Hotstar Netflix","₹2,999.00",100,"365 Days",Unlimited
